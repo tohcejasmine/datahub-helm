@@ -2,3 +2,9 @@
 *.tgz
 .vscode
 .idea
+
+# archived helm packages
+archive-helm-package
+
+# sensitive stuff
+gke-keys
